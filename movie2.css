@@ -92,17 +92,11 @@ dl span{
 	display: block;
 	padding:0pt 10pt 10pt 0pt;
 }
-div.column1 {
+div.column{
 	float: left;
 	display: inline;
 	width: 47%;
 	margin-left:2%;
-}
-div.column2 {
-	float: right;
-	display: inline;
-	width: 47%;
-	margin-right:2%;
 }
 div.review {
 	background-color: #E8DC9B;
