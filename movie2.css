@@ -112,6 +112,11 @@ img{
 	float:left;
 	margin-right:5px;
 }
+#w3c{
+	position:fixed;
+	bottom:0px;
+	right:0px;
+}
 div.reviewer{
 	margin-bottom: 20px;
 	}
