@@ -12,7 +12,8 @@ This file adds all of the visual styles to the elements in the tmnt.html file.*/
     left: 0;
     right: 0;
     height: 50px;
-    position: absolute;
+    position: fixed;
+    z-index: 2;
 }
 #header img{
 	display: block;
