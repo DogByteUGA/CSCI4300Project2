@@ -1,3 +1,9 @@
+/* Group DogByte
+CSCI 4300
+Description: Create a web page that replicates a site called "Rancid Tomatoes", which is similar to "Rotten Tomatoes".
+The movie being reviewed is the Teenage Mutant Ninja Turtles (2007).
+File: movie.css
+This file adds all of the visual styles to the elements in the tmnt.html file.*/
 #header{
 	background-image: url("https://webster.cs.washington.edu/images/rancidbannerbg.png");
 	margin: 0px;
